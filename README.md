@@ -63,3 +63,4 @@ In order to make the real-time option market work, here are some nitty-gritty de
 @UnstoppableDomains We use Unstoppable Domains for our domain. It allows us to build a censorship-resistant website. https://ud.me/fluidoptions.888
 
 @IPFS We deployed our front-end to IPFS. It allows us to store, request, and transfer data via a verifiable marketplace. https://ipfs.io/ipfs/QmcGniy81YECrRo9TT7svFDygYGuAqDp8j1nnx3iFWvLXs
+
